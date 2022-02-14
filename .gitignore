@@ -124,6 +124,12 @@ v2-plant-seedlings-dataset.zip
 logs/
 
 # trained models (will be created in CI)
+section-04-research-and-development/*.csv
+section-04-research-and-development/*.joblib
+section-04-research-and-development/titanic-assignment/*.csv
+section-04-research-and-development/titanic-assignment/*.joblib
+
+
 section-05-production-model-package/regression_model/trained_models/*.pkl
 packages/regression_model/regression_model/trained_models/*.pkl
 packages/neural_network_model/neural_network_model/trained_models/*.pkl
